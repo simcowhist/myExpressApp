@@ -7,7 +7,7 @@ on:
 env:
   AZURE_RESOURCE_GROUP: asaf-actions-webapp-rg
   AZURE_APP_PLAN: asaf-actions-asp
-  AZURE_LOCATION: '"East US"'
+  AZURE_LOCATION: '"Central US"'
   AZURE_WEBAPP_NAME: asaf-node-28112023
 
 jobs:
